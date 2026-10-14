@@ -6,7 +6,7 @@ model, picks its mood from a fixed list through OpenRouter.
 
 ## Setup
 
-1. Paste your OpenRouter key into `.env`.
+1. Create a file named `.env` in this folder containing `OPENROUTER_API_KEY=` followed by your OpenRouter key.
 2. `npm run env` copies it to `extension/env.local.json`, which the extension reads.
 3. In `chrome://extensions`, turn on Developer mode, choose **Load unpacked**, and pick `extension/`.
 
@@ -56,7 +56,7 @@ A decision costs about $0.00005. `background.js` stops at 3000 a day, about $0.1
 
 `npm run animate` sends each pose to Wan 2.7 as both the first and the last
 frame of a 3-second clip on a green background, so the clip loops. It keeps the
-clip in `assets/<avatar>/video/`, keys out the green, and writes an animated
+clip in `assets/<avatar>/video/`, which git ignores, keys out the green, and writes an animated
 WebP to `extension/avatars/<avatar>/anim/`. Wan 2.7 costs $0.10 per second, so
 all 20 poses cost about $6. A pose with no animation shows its still image with
 a breathing motion.
