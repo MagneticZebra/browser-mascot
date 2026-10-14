@@ -1,0 +1,208 @@
+{
+  "id": "argus",
+  "name": "Argus",
+  "size": 268,
+  "poses": {
+    "idle": {
+      "file": "poses/idle.png",
+      "box": [
+        36,
+        53,
+        233,
+        262
+      ],
+      "anim": "anim/idle.webp"
+    },
+    "cheering": {
+      "file": "poses/cheering.png",
+      "box": [
+        11,
+        59,
+        262,
+        262
+      ],
+      "anim": "anim/cheering.webp"
+    },
+    "curious": {
+      "file": "poses/curious.png",
+      "box": [
+        48,
+        53,
+        220,
+        262
+      ],
+      "anim": "anim/curious.webp"
+    },
+    "asleep": {
+      "file": "poses/asleep.png",
+      "box": [
+        11,
+        68,
+        258,
+        262
+      ],
+      "anim": "anim/asleep.webp"
+    },
+    "shocked": {
+      "file": "poses/shocked.png",
+      "box": [
+        39,
+        50,
+        229,
+        262
+      ],
+      "anim": "anim/shocked.webp"
+    },
+    "confused": {
+      "file": "poses/confused.png",
+      "box": [
+        48,
+        75,
+        239,
+        262
+      ],
+      "anim": "anim/confused.webp"
+    },
+    "sulking": {
+      "file": "poses/sulking.png",
+      "box": [
+        36,
+        68,
+        232,
+        262
+      ],
+      "anim": "anim/sulking.webp"
+    },
+    "cool": {
+      "file": "poses/cool.png",
+      "box": [
+        40,
+        56,
+        229,
+        262
+      ],
+      "anim": "anim/cool.webp"
+    },
+    "love": {
+      "file": "poses/love.png",
+      "box": [
+        47,
+        67,
+        222,
+        262
+      ],
+      "anim": "anim/love.webp"
+    },
+    "rushing": {
+      "file": "poses/rushing.png",
+      "box": [
+        26,
+        62,
+        214,
+        262
+      ],
+      "anim": "anim/rushing.webp"
+    },
+    "giggling": {
+      "file": "poses/giggling.png",
+      "box": [
+        25,
+        80,
+        244,
+        262
+      ],
+      "anim": "anim/giggling.webp"
+    },
+    "scrolling": {
+      "file": "poses/scrolling.png",
+      "box": [
+        51,
+        77,
+        217,
+        262
+      ],
+      "anim": "anim/scrolling.webp"
+    },
+    "peeking": {
+      "file": "poses/peeking.png",
+      "box": [
+        89,
+        74,
+        179,
+        262
+      ],
+      "edge": "right",
+      "anim": "anim/peeking.webp"
+    },
+    "grumpy": {
+      "file": "poses/grumpy.png",
+      "box": [
+        38,
+        79,
+        231,
+        262
+      ],
+      "anim": "anim/grumpy.webp"
+    },
+    "cozy": {
+      "file": "poses/cozy.png",
+      "box": [
+        42,
+        79,
+        227,
+        262
+      ],
+      "anim": "anim/cozy.webp"
+    },
+    "wink": {
+      "file": "poses/wink.png",
+      "box": [
+        58,
+        117,
+        211,
+        262
+      ],
+      "anim": "anim/wink.webp"
+    },
+    "snacking": {
+      "file": "poses/snacking.png",
+      "box": [
+        56,
+        92,
+        213,
+        262
+      ],
+      "anim": "anim/snacking.webp"
+    },
+    "dancing": {
+      "file": "poses/dancing.png",
+      "box": [
+        49,
+        107,
+        219,
+        262
+      ],
+      "anim": "anim/dancing.webp"
+    },
+    "hiding": {
+      "file": "poses/hiding.png",
+      "box": [
+        30,
+        115,
+        239,
+        262
+      ],
+      "anim": "anim/hiding.webp"
+    },
+    "idle_alt": {
+      "file": "poses/idle_alt.png",
+      "box": [
+        53,
+        91,
+        215,
+        262
+      ],
+      "anim": "anim/idle_alt.webp"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "argus",
+  "name": "Argus",
+  "description": "A cute fluffy blue plush blob creature with a small leaf-shaped tuft on its head, black bead eyes and tiny stubby arms and feet, soft 3D felt render",
+  "poses": [
+    { "name": "idle", "motion": "breathes gently, blinks once, sways very slightly" },
+    { "name": "cheering", "motion": "bounces up and down happily while waving both arms, the yellow sparkles twinkle" },
+    { "name": "curious", "motion": "leans forward a little and looks around with interest, the tuft wobbles" },
+    { "name": "asleep", "motion": "sleeps, body slowly rising and falling with each breath, the Z letters drift upward" },
+    { "name": "shocked", "motion": "jolts with surprise, body trembling, the exclamation marks shake" },
+    { "name": "confused", "motion": "tilts its head from side to side, puzzled, the question mark bobs" },
+    { "name": "sulking", "motion": "keeps its back turned, huffs with a small shrug, the tuft twitches" },
+    { "name": "cool", "motion": "nods slowly and confidently wearing its sunglasses" },
+    { "name": "love", "motion": "hugs the red heart and sways side to side, the heart pulses gently" },
+    { "name": "rushing", "motion": "runs in place in a hurry, feet pattering quickly, the speed lines flicker" },
+    { "name": "giggling", "motion": "shakes with laughter, eyes squeezed shut, arms flapping, the sparkles twinkle" },
+    { "name": "scrolling", "motion": "stares at the phone it is holding, thumbs tapping, the screen glow flickers" },
+    { "name": "peeking", "edge": "right", "motion": "peeks out shyly from behind the straight right edge, leaning out and back" },
+    { "name": "grumpy", "motion": "frowns and stomps one foot, puffing up with a huff" },
+    { "name": "cozy", "motion": "sways drowsily in its knit beanie, eyes closed, breathing slowly" },
+    { "name": "wink", "motion": "rocks playfully and winks" },
+    { "name": "snacking", "motion": "munches the cookie with small quick bites, cheeks moving" },
+    { "name": "dancing", "motion": "dances, rocking side to side with a happy bounce" },
+    { "name": "hiding", "motion": "trembles under its blanket and peeks out nervously" },
+    { "name": "idle_alt", "motion": "breathes gently, blinks, looks left then right" }
+  ]
+}
